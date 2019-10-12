@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\TossCoin\TossCoin\bin\Debug\TossCoin.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TossCoin\TossCoin\obj\Debug\TossCoin.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TossCoin\TossCoin\bin\Debug\TossCoin.exe
+c:\users\user\documents\visual studio 2015\Projects\TossCoin\TossCoin\bin\Debug\TossCoin.pdb
+c:\users\user\documents\visual studio 2015\Projects\TossCoin\TossCoin\obj\Debug\TossCoin.exe
+c:\users\user\documents\visual studio 2015\Projects\TossCoin\TossCoin\obj\Debug\TossCoin.pdb
+E:\Alan\Programming\Visual Studio 2015\Projects\TossCoin\TossCoin\bin\Debug\TossCoin.exe.config
+E:\Alan\Programming\Visual Studio 2015\Projects\TossCoin\TossCoin\bin\Debug\TossCoin.exe
+E:\Alan\Programming\Visual Studio 2015\Projects\TossCoin\TossCoin\bin\Debug\TossCoin.pdb
+E:\Alan\Programming\Visual Studio 2015\Projects\TossCoin\TossCoin\obj\Debug\TossCoin.csprojAssemblyReference.cache
+E:\Alan\Programming\Visual Studio 2015\Projects\TossCoin\TossCoin\obj\Debug\TossCoin.exe
+E:\Alan\Programming\Visual Studio 2015\Projects\TossCoin\TossCoin\obj\Debug\TossCoin.pdb
